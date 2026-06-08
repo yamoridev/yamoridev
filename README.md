@@ -29,10 +29,10 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-
-
-  
-  
+  <!-- Альтернативная статистика, которая работает -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=yamoridev&theme=tokyonight&hide_border=true&background=0d1117&ring=6b63fa&fire=6b63fa&currStreakNum=c9c9e0&sideNums=c9c9e0&currStreakLabel=6b63fa&sideLabels=6b63fa" alt="GitHub Streak Stats"/>  
+  <br><br>
+    
   <!-- Счётчик просмотров -->
   <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views"/>
 </div>
