@@ -28,23 +28,33 @@
 
 ## 📊 Статистика GitHub
 
+<!-- Альтернативный рабочий способ с прямыми ссылками -->
 <div align="center">
   
-  <!-- Основная статистика -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yamoridev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0&icon_color=6b63fa" alt="GitHub Stats"/>
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yamoridev&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0&icon_color=6b63fa&ring_color=6b63fa&cache_seconds=1800">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yamoridev&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=6b63fa&text_color=333333&icon_color=6b63fa&ring_color=6b63fa&cache_seconds=1800" alt="GitHub Stats"/>
+  </picture>
   
-  <!-- Языки -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamoridev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0" alt="Top Languages"/>
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yamoridev&layout=compact&hide_border=true&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0&cache_seconds=1800">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamoridev&layout=compact&hide_border=true&bg_color=ffffff&title_color=6b63fa&text_color=333333&cache_seconds=1800" alt="Top Languages"/>
+  </picture>
   
   <br><br>
   
-  <!-- Полоса активности -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamoridev&theme=tokyonight&hide_border=true&background=0d1117&ring=6b63fa&fire=6b63fa&currStreakNum=c9c9e0&sideNums=c9c9e0&currStreakLabel=6b63fa&sideLabels=6b63fa" alt="Streak Stats"/>
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yamoridev&hide_border=true&background=0d1117&ring=6b63fa&fire=6b63fa&currStreakNum=c9c9e0&sideNums=c9c9e0&currStreakLabel=6b63fa&sideLabels=6b63fa&dates=c9c9e0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamoridev&hide_border=true&background=ffffff&ring=6b63fa&fire=6b63fa&currStreakNum=333333&sideNums=333333&currStreakLabel=6b63fa&sideLabels=6b63fa&dates=333333" alt="Streak Stats"/>
+  </picture>
   
   <br><br>
   
-  <!-- Счётчик просмотров -->
-  <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
   
 </div>
 
@@ -52,27 +62,35 @@
 
 ## 📈 График активности
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yamoridev&bg_color=0d1117&color=6b63fa&line=6b63fa&point=9c9cfc&area=true&area_color=6b63fa40&hide_border=true)](https://github.com/yamoridev)
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yamoridev&bg_color=0d1117&color=6b63fa&line=6b63fa&point=9c9cfc&area=true&area_color=6b63fa40&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamoridev&bg_color=ffffff&color=6b63fa&line=6b63fa&point=9c9cfc&area=true&area_color=6b63fa20&hide_border=true" alt="Activity Graph"/>
+</picture>
 
 ---
 
 ## 🔥 Дополнительная статистика
 
-<table align="center">
-  <tr>
-    <td align="center">⭐ <b>Stars</b><br><font size="+2"><b>12</b></font></td>
-    <td align="center">📝 <b>Commits</b><br><font size="+2"><b>156</b></font></td>
-    <td align="center">🔄 <b>PRs</b><br><font size="+2"><b>1</b></font></td>
-    <td align="center">📁 <b>Repos</b><br><font size="+2"><b id="repo-count">Загрузка...</b></font></td>
-  </tr>
-</table>
+<div align="center">
+  
+| 📊 Показатель | Значение |
+|--------------|----------|
+| ⭐ **Всего звёзд** | 12 |
+| 📝 **Всего коммитов** | 156 |
+| 🔄 **Pull Requests** | 1 |
+| 🐛 **Issues** | 0 |
+| 🤝 **Вклад за год** | 1 |
+| 📁 **Репозиториев** | 4+ |
+
+</div>
 
 ---
 
 ## 🛠️ Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,discordjs,git,github,kubernetes,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,discordjs,git,github,kubernetes,docker" />
 </p>
 
 ---
