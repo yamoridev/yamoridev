@@ -71,9 +71,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,discordjs,git,github,kubernetes,docker" />
 </p>
--->
----
 
+---
+-->
 <h3 align="center">💬 Связь со мной</h3>
 <p align="center">
   <a href="https://discord.gg/uzaPq5rmh8">
