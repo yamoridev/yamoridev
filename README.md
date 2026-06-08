@@ -10,8 +10,8 @@
 - ***TEX - ADMIN DAYZ SERVER***
 - ***TEX - ADMIN RUST SERVER***
 - ***Серверо - Строитель***
-- ***Технический Администратор серверов с попытом более 3-х лет!***
-- ***Начинающий Администратор Виртаулизации с начальным опытом работы с [Kubernetes](https://kubernetes.io)***
+- ***Технический Администратор серверов с опытом более 3-х лет!***
+- ***Начинающий Администратор Виртуализации с начальным опытом работы с [Kubernetes](https://kubernetes.io)***
 - ***Владелец Хостинга игровых серверов для DayZ***
 - ***Владелец [KPY](https://discord.gg/uzaPq5rmh8) - Утилит для защиты ваших дискорд серверов***
 
@@ -25,27 +25,39 @@
 
 <!-- - *Specializes in **front-end development*** -->
 
+---
 
+<h2 align="center">Statistics 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="60%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0&icon_color=6b63fa&hide_border=true&ring_color=6b63fa" alt="Yamori GitHub Stats" width="100%">
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamorideveloper&background=0d1117&ring=6b63fa&fire=6b63fa&sideNums=c9c9e0&sideLabels=c9c9e0&dates=c9c9e0&hide_border=true&currStreakNum=c9c9e0&currStreakLabel=6b63fa" alt="Yamori Streak Stats" width="100%">
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamorideveloper&layout=compact&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0&icon_color=6b63fa&hide_border=true&langs_count=8" alt="Yamori Top Languages" width="95%">
+      <br><br>
+      <img src="https://komarev.com/ghpvc/?username=yamorideveloper&color=6b63fa&style=flat-square&label=Profile+Views" alt="Profile Views">
+    </td>
+  </tr>
+</table>
 
 ---
-<h2 align="center">Statistics</h2>
 
-<a href="#hi-im-abhishek-jadhav">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamorideveloper&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6b63fa&text_color=6c6c7c&hide_border=true" alt="abhishek-stats" align="left" width="60%">
-</a>
-<a href="#hi-im-abhishek-jadhav">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaelliMedeiros/master/image/computer-illustration.png" align="left" width="30%" />
-</a>
+<h2 align="center">Contribution Graph 📊</h2>
+ 
+[![Yamori's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yamorideveloper&bg_color=00000000&color=9c9cfc&line=6b63fa&point=6c6c7c&area=true&area_color=6b63fa40&title_color=6b63fa&hide_border=true)](https://github.com/yamorideveloper)
 
-<br clear="both"/>
+---
 
-<!-- Дополнительная статистика (ваши кастомные данные) -->
-<h3 align="center">🔥 Yamori Ko's GitHub Stats</h3>
+<h2 align="center">🔥 GitHub Metrics</h2>
 
 <table align="center" width="80%">
   <tr>
     <td align="center">⭐ <b>Total Stars Earned</b></td>
-    <td align="center">📝 <b>Total Commits</b></td>
+    <td align="center">📝 <b>Total Commits (2025)</b></td>
     <td align="center">🔄 <b>Total PRs</b></td>
     <td align="center">🐛 <b>Total Issues</b></td>
     <td align="center">🤝 <b>Contributed (last year)</b></td>
@@ -59,24 +71,19 @@
   </tr>
 </table>
 
-<br> 
-
 ---
-<h2 align="center">Contribution Graph 📊</h2>
- 
-[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yamorideveloper&bg_color=00000000&color=9c9cfc&line=6b63fa&point=6c6c7c&area=true&area_color=6b63fa40&title_color=6b63fa&hide_border=true)](https://github.com/yamorideveloper) 
----
-<!-- 
-<h2 align="center">⚡KPY - NO - HAKING⚡</h2>
 
-<img align="center" src="https://media.discordapp.net/attachments/1457744583390789732/1457745008403812415/image.png?ex=69606a15&is=695f1895&hm=2c69389b6d811a33ba99600ff532094daf3f84cc7be2c69ef1beaf9543c40e5e&=&format=webp&quality=lossless&width=1730&height=902" align="left" /> 
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<!-- <h2 align="center">Tools & Technologies ⚡</h2>
- <p align="center">
-  <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,sass,react,redux,vue,nodejs,express,nestjs,postgres,mongodb,git" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,discordjs,git,github,kubernetes,docker" />
 </p>
 
+---
 
-
+<h3 align="center">💬 Связь со мной</h3>
+<p align="center">
+  <a href="https://discord.gg/uzaPq5rmh8">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
