@@ -1,4 +1,4 @@
-# Portfolio-Yamori_Ko
+# Yamori Developer
 ## **Hey** <img src="https://raw.githubusercontent.com/ishandeveloper/Portfolio/df19bc0d81454f9451be0f0de18a647163384fd7/assets/img/undraw_code_review_l1q9.svg" width="29">, **I'm Yamori, Good to see you here!**
 
 ## About Me 🙂
