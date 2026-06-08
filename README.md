@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-<br>
+<br> 
 
 ---
 <h2 align="center">Contribution Graph 📊</h2>
