@@ -26,30 +26,6 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-<div align="center">
-  <!-- Альтернативная статистика, которая работает -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=yamoridev&theme=tokyonight&hide_border=true&background=0d1117&ring=6b63fa&fire=6b63fa&currStreakNum=c9c9e0&sideNums=c9c9e0&currStreakLabel=6b63fa&sideLabels=6b63fa" alt="GitHub Streak Stats"/>
-  
-  <br><br>
-  
-  <!-- Статистика языков (может иногда не работать, но попробовать стоит) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamoridev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0"/>
-  
-  <br><br>
-  
-  <!-- Счётчик просмотров -->
-  <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views"/>
-</div>
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
-  
-</div>
-
----
-
 ## 📈 График активности
 
 <!-- Activity Graph -->
