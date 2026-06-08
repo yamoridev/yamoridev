@@ -32,10 +32,6 @@
 
 
   
-  <!-- Статистика языков (может иногда не работать, но попробовать стоит) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamoridev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6b63fa&text_color=c9c9e0"/>
-  
-  <br><br>
   
   <!-- Счётчик просмотров -->
   <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views"/>
