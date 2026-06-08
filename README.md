@@ -43,16 +43,6 @@
   <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views"/>
 </div>
   
-  <br><br>
-  
-  <!-- Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yamoridev&hide_border=true&background=0d1117&ring=6b63fa&fire=6b63fa&currStreakNum=c9c9e0&sideNums=c9c9e0&currStreakLabel=6b63fa&sideLabels=6b63fa&dates=c9c9e0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamoridev&hide_border=true&background=ffffff&ring=6b63fa&fire=6b63fa&currStreakNum=333333&sideNums=333333&currStreakLabel=6b63fa&sideLabels=6b63fa&dates=333333" alt="Streak Stats"/>
-  </picture>
-  
-  <br><br>
-  
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
   
