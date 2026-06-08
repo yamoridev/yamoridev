@@ -29,10 +29,9 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <!-- Альтернативная статистика, которая работает -->
+  <!-- Альтернативная статистика, которая работает, дополняю: ебать она рил заработала -->
   <img height="180em" src="https://streak-stats.demolab.com?user=yamoridev&theme=tokyonight&hide_border=true&background=0d1117&ring=6b63fa&fire=6b63fa&currStreakNum=c9c9e0&sideNums=c9c9e0&currStreakLabel=6b63fa&sideLabels=6b63fa" alt="GitHub Streak Stats"/>  
   <br><br>
-    
   <!-- Счётчик просмотров -->
   <img src="https://komarev.com/ghpvc/?username=yamoridev&color=6b63fa&style=flat-square&label=Profile+Views"/>
 </div>
@@ -50,24 +49,11 @@
 ---
 <!--
 ## 🔥 Дополнительная статистика
-
-<div align="center">
-  
-| 📊 Показатель | Значение |
-|--------------|----------|
-| ⭐ **Всего звёзд** | 12 |
-| 📝 **Всего коммитов** | 156 |
-| 🔄 **Pull Requests** | 1 |
-| 🐛 **Issues** | 0 |
-| 🤝 **Вклад за год** | 1 |
-| 📁 **Репозиториев** | 4+ |
-
-</div>
-
+Тута нету в лом её добавлять да и нах не нужна
 ---
 
 ## 🛠️ Технологии
-
+Позже добавлю ps - это не точно, не нужна эта паказуха Аля Full стак разраб внеибический
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,discordjs,git,github,kubernetes,docker" />
 </p>
